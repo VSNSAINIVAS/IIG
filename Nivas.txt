@@ -1,0 +1,2217 @@
+thi   1 2 3 4 5 
+is   1 2 3 4 
+a   1 2 3 4 5 
+sharewar   1 
+trial   1 
+project   1 3 
+it   1 2 3 4 5 
+not   1 5 
+freewar   1 
+we   1 2 4 5 
+need   1 5 
+your   1 4 5 
+support   1 
+to   1 5 
+continu   1 5 
+100   1 
+west   1 
+by   1 3 5 
+53   1 
+north   1 
+jim   1 
+prentic   1 
+copyright   1 3 4 5 
+1990   1 
+brandon   1 
+manitoba   1 
+canada   1 
+magic   1 4 5 
+phrase   1 
+spoken   1 
+mumbl   1 
+thought   1 2 3 5 
+inwardli   1 2 
+thousand   1 
+soul   1 
+ventur   1 4 
+northward   1 
+an   1 3 5 
+imaginari   1 
+line   1 5 
+shown   1 
+map   1 
+label   1 
+degre   1 
+presenc   1 3 
+indic   1 
+highway   1 
+travel   1 
+road   1 2 5 
+sign   1 4 5 
+divis   1 
+territori   1 
+distinct   1 
+mind   1 5 
+intern   1 
+border   1 
+if   1 2 5 
+writer   1 5 
+poet   1 
+pilot   1 
+contribut   1 
+lore   1 
+the   1 2 3 4 5 
+rigor   1 
+life   1 2 5 
+bush   1 2 
+told   1 2 4 5 
+tale   1 5 
+man   1 
+eat   1 2 
+mosquito   1 
+murder   1 
+hord   1 
+black   1 5 
+fli   1 
+lump   1 
+flesh   1 
+carri   1 
+away   1 2 3 4 5 
+giant   1 
+bull   1 
+dog   1 2 3 
+stori   1 5 
+record   1 
+break   1 4 5 
+trout   1 
+walley   1 
+pike   1 
+legion   1 
+there   1 2 4 5 
+sight   1 2 
+sound   1 5 
+heard   1 2 3 4 5 
+deep   1 2 4 
+spruce   1 
+forest   1 
+crash   1 
+moos   1 
+tear   1 
+brush   1 
+tree   1 2 
+drum   1 
+grous   1 
+incess   1 3 
+hum   1 
+insect   1 
+cackl   1 
+quackeri   1 
+duck   1 
+feed   1 
+quiet   1 2 5 
+pond   1 
+placid   1 
+bay   1 2 
+onc   1 4 
+intermitt   1 
+song   1 
+loon   1 
+forgotten   1 
+voic   1 2 4 5 
+signatur   1 
+authent   1 
+northern   1 
+scene   1 
+wildlif   1 
+land   1 
+differ   1 
+elsewher   1 
+take   1 2 4 5 
+special   1 
+breed   1 
+person   1 4 
+live   1 2 4 5 
+farther   1 
+appar   1 
+southern   1 
+fiftieth   1 
+trip   1 
+awar   1 
+implic   1 
+gener   1 
+owner   1 
+cottag   1 
+lake   1 
+amen   1 
+hand   1 3 4 5 
+weekend   1 
+rough   1 
+dweller   1 
+year   1 4 
+round   1 
+basi   1 
+modern   1 5 
+cabin   1 
+shore   1 
+near   1 2 
+larg   1 4 
+metropolitan   1 
+center   1 
+equip   1 
+electr   1 4 
+servic   1 5 
+telephon   1 
+pave   1 
+natur   1 
+ga   1 
+pipelin   1 
+cabl   1 
+televis   1 
+nearbi   1 
+provid   1 
+food   1 
+fuel   1 
+repair   1 
+entertain   1 5 
+drivein   1 
+theater   1 
+fast   1 
+chain   1 
+abound   1 
+waterfront   1 
+busi   1 4 5 
+dock   1 
+built   1 
+arriv   1 
+boat   1 2 
+shop   1 
+laundri   1 
+transfer   1 
+suitcas   1 
+famili   1 2 
+car   1 
+local   1 
+merchant   1 
+deliv   1 
+good   1 2 
+water   1 2 
+entrepreneur   1 4 5 
+businesss   1 
+maintain   1 
+absenc   1 
+season   1 
+most   1 
+locat   1 
+street   1 4 5 
+rival   1 
+home   1 2 5 
+citi   1 
+these   1 
+commun   1 
+littl   1 2 5 
+urban   1 
+offer   1 2 4 5 
+escap   1 5 
+look   1 2 3 4 5 
+averag   1 
+studi   1 
+compar   1 
+standard   1 
+area   1 
+retreat   1 
+bu   1 
+doesnt   1 
+start   1 2 4 5 
+walk   1 2 
+taxi   1 
+ye   1 2 4 5 
+kind   1 5 
+anoth   1 
+even   1 2 3 
+ride   1 
+one   1 
+pick   1 4 5 
+truck   1 
+mail   1 5 
+deliveri   1 
+unknown   1 2 
+pleasant   1 
+stroll   1 5 
+midsumm   1 
+contrast   1 
+ordeal   1 
+threaten   1 
+condit   1 
+winter   1 
+hous   1 2 4 5 
+milk   1 
+bread   1 
+nonexist   1 
+perhap   1 
+newspap   1 2 5 
+requir   1 
+effort   1 4 
+especi   1 3 4 5 
+rail   1 5 
+schedul   1 
+air   1 2 3 
+settlement   1 
+sever   1 
+restrict   1 
+avail   1 3 
+all   1 3 4 5 
+mani   1 
+small   1 
+compani   1 4 5 
+exist   1 
+fare   1 
+collect   1 4 
+transport   1 
+nativ   1 
+reserv   1 3 5 
+although   1 5 
+diminish   1 
+recent   1 5 
+bushpilot   1 
+charter   1 
+aircraft   1 
+play   1 2 5 
+role   1 
+learn   1 
+colleagu   1 
+ground   1 2 4 5 
+in   1 2 3 4 5 
+summer   1 
+float   1 
+they   1 2 4 5 
+haul   1 
+trapper   1 
+fishermen   1 
+freight   1 
+fish   1 
+fur   1 5 
+suppli   1 4 
+camp   1 
+traplin   1 
+log   1 2 
+fall   1 2 
+ice   1 
+ski   1 
+chang   1 
+wheel   1 
+permit   1 4 
+present   1 
+problem   1 4 5 
+hear   1 2 3 
+of   1 4 5 
+temperatur   1 
+exceed   1 
+40   1 
+zero   1 
+blow   1 
+snow   1 
+crystal   1 2 
+whiteout   1 
+challeng   1 
+daili   1 
+work   1 4 5 
+preheat   1 
+engin   1 4 5 
+coax   1 
+congeal   1 
+oil   1 
+propel   1 
+pitch   1 
+mechan   1 
+super   1 
+cool   1 
+gasolin   1 
+regular   1 5 
+chore   1 
+skiequip   1 
+tie   1 
+rope   1 
+frozen   1 
+hole   1 2 
+foot   1 3 
+lift   1 
+run   1 2 5 
+board   1 4 
+pole   1 
+prevent   1 
+freez   1 
+passeng   1 
+wear   1 4 
+heavi   1 
+arctic   1 
+cloth   1 4 
+heat   1 
+system   1 5 
+capabl   1 
+cope   1 
+cold   1 5 
+batteri   1 
+remov   1 
+end   1 2 5 
+day   1 2 3 4 5 
+ensur   1 
+maximum   1 
+effici   1 
+wing   1 
+cover   1 2 
+stop   1 2 
+ingress   1 
+build   1 5 
+frost   1 
+flight   1 
+surfac   1 
+blowpot   1 
+get   1 2 
+minu   1 
+50   1 
+turn   1 2 4 5 
+chinup   1 
+coldsoak   1 
+cessna   1 
+flew   1 
+airport   1 
+lack   1 4 
+comparison   1 
+south   1 
+usual   1 5 
+oper   1 
+some   1 
+larger   1 
+pay   1 2 5 
+airstrip   1 
+normal   1 3 
+procedur   1 
+buzz   1 
+town   1 
+let   1 2 4 
+peopl   1 5 
+know   1 2 4 5 
+head   1 2 3 4 5 
+strip   1 
+meet   1 
+you   1 2 4 5 
+unless   1 
+custom   1 5 
+transact   1 
+cash   1 4 
+chequ   1 
+nearli   1 
+useless   1 
+villag   1 
+bank   1 5 
+credit   1 5 
+stranger   1 
+foolhardi   1 
+dure   1 
+grip   1 
+snowmobil   1 
+major   1 4 5 
+mode   1 
+largest   1 
+place   1 2 
+vehicl   1 
+left   1 2 
+24   1 
+hour   1 4 5 
+allow   1 2 
+restart   1 
+balki   1 
+resid   1 
+enjoy   1 2 
+month   1 4 
+bring   1 2 
+activ   1 
+motor   1 
+store   1 4 
+lawnmow   1 
+garden   1 
+chair   1 2 3 5 
+tune   1 
+up   1 2 5 
+icefish   1 
+shack   1 
+tow   1 
+river   1 
+blade   1 
+power   1 
+auger   1 
+sharpen   1 
+flock   1 
+favorit   1 
+spot   1 5 
+drill   1 
+feet   1 2 4 
+thick   1 
+whether   1 
+comfort   1 
+woodburn   1 
+stove   1 
+glow   1 
+huddl   1 
+lee   1 
+catch   1 2 
+tullibe   1 
+whitefish   1 
+perch   1 
+burbot   1 
+catfish   1 
+bass   1 
+plenti   1 
+popular   1 
+bait   1 
+minnow   1 2 
+use   1 5 
+suckerbelli   1 
+net   1 
+bag   1 2 
+egg   1 
+other   1 4 
+metal   1 
+spoon   1 
+bucktail   1 
+leadhead   1 
+jig   1 
+lure   1 
+snell   1 
+hook   1 
+as   1 2 4 5 
+best   1 
+time   1 2 4 5 
+hunt   1 
+sport   1 
+colder   1 
+weather   1 5 
+warmth   1 
+hunter   1 2 
+face   1 2 5 
+similar   1 5 
+extrem   1 
+snowmachin   1 
+kept   1 
+depend   1 
+death   1 2 
+situat   1 
+develop   1 4 
+machin   1 3 
+mile   1 
+rifl   1 
+care   1 4 5 
+bolt   1 
+greas   1 
+solid   1 
+fire   1 5 
+pin   1 4 
+struck   1 
+hammer   1 
+bear   1 5 
+weapon   1 3 5 
+fail   1 2 
+outdoor   1 
+includ   1 
+cross   1 
+countri   1 
+race   1 
+team   1 
+festiv   1 
+held   1 
+spring   1 
+brought   1 
+out   1 4 5 
+wager   1 
+date   1 
+blower   1 
+shovel   1 
+skidoo   1 
+suit   1 3 
+replac   1 
+lawn   1 
+mower   1 
+rake   1 2 
+bath   1 
+pussi   1 
+willow   1 
+blossom   1 
+gees   1 
+return   1 3 
+usa   1 
+frog   1 
+begin   1 
+croak   1 
+battalion   1 
+hatch   1 
+from   1 
+low   1 
+mercuri   1 
+climb   1 
+upward   1 
+high   1 2 4 
+reach   1 2 
+90   1 
+fantast   1 
+differenti   1 
+140   1 
+through   1 
+commerci   1 4 
+trap   1 2 
+construct   1 
+landscap   1 
+patrol   1 
+hundr   1 
+hydroelectr   1 
+transmiss   1 
+at   1 2 5 
+interv   1 
+conservationist   1 
+anim   1 5 
+censu   1 
+tank   1 
+babi   1 
+restock   1 
+serious   1 
+ill   1 
+injur   1 
+taken   1 5 
+medic   1 
+medevac   1 
+tourist   1 
+prospector   1 
+vie   1 
+geologist   1 
+botanist   1 
+biologist   1 
+entomologist   1 
+surveyor   1 
+see   1 4 
+touch   1 4 
+smell   1 
+measur   1 
+wonder   1 
+open   1 2 3 
+herald   1 
+recreat   1 
+type   1 3 
+trailer   1 
+van   1 5 
+motorhom   1 
+4x4   1 
+bicycl   1 3 
+motorcycl   1 
+atv   1 
+firsttim   1 
+privat   1 
+provinci   1 
+govern   1 5 
+campground   1 
+experienc   1 
+adventuresom   1 
+trail   1 
+stream   1 2 
+park   1 5 
+lot   1 5 
+cram   1 
+booz   1 
+sold   1 
+great   1 2 
+quantiti   1 
+hotel   1 
+full   1 
+advanc   1 
+prior   1 
+leav   1 2 4 
+befor   1 5 
+for   1 2 
+short   1 
+week   1 4 
+prime   1 
+period   1 
+occupi   1 4 
+on   1 5 
+sportsmen   1 
+reced   1 
+cycl   1 
+repeat   1 
+annual   1 
+each   1 5 
+number   1 2 5 
+own   1 
+piper   1 
+cub   1 
+beechcraft   1 
+taildragg   1 
+bizjet   1 
+new   1 2 5 
+experi   1 
+unnerv   1 
+accustom   1 
+network   1 
+railroad   1 
+track   1 
+contact   1 
+navig   1 
+aid   1 
+seldom   1 
+prepar   1 3 
+realiti   1 5 
+apart   1 
+case   1 
+railway   1 
+lower   1 
+altitud   1 
+except   1 
+rule   1 
+plan   1 2 4 5 
+cours   1 5 
+mandatori   1 
+read   1 2 3 5 
+difficult   1 
+basic   1 5 
+shape   1 
+sharp   1 2 
+eye   1 2 3 4 5 
+seaplan   1 
+danger   1 
+rock   1 2 4 
+reef   1 
+amplifi   1 
+distanc   1 2 
+civil   1 4 
+suitabl   1 
+refuel   1 
+facil   1 
+element   1 
+here   1 
+pleasur   1 
+remot   1 
+green   1 
+undisturb   1 
+indescrib   1 
+after   1 2 3 5 
+secur   1 5 
+set   1 4 
+true   1 5 
+beauti   1 
+teem   1 
+surround   1 
+wood   1 2 
+smoke   1 
+coffe   1 
+mingl   1 
+fresh   1 
+sizzl   1 
+frypan   1 
+bird   1 2 
+wail   1 4 
+coyot   1 
+wolv   1 
+whistl   1 
+raven   1 
+hawk   1 
+eagl   1 
+shorelin   1 
+wake   1 5 
+pass   1 2 4 5 
+beaver   1 
+muskrat   1 
+occasion   1 
+warn   1 3 
+smack   1 2 
+tail   1 
+sens   1 
+vari   1 
+hue   1 
+evergreen   1 
+decidu   1 
+color   1 5 
+windflow   1 
+tast   1 
+wild   1 3 5 
+strawberri   1 
+raspberri   1 
+blueberri   1 
+excit   1 2 
+sky   1 3 5 
+danc   1 3 
+dazzl   1 
+display   1 
+aurora   1 
+boreali   1 
+appear   1 5 
+light   1 4 
+star   1 4 5 
+incred   1 
+brilliant   1 
+smog   1 
+free   1 4 5 
+heaven   1 2 
+night   1 2 3 4 5 
+lie   1 3 
+tent   1 5 
+rustl   1 
+nois   1 
+twig   1 
+snap   1 
+mous   1 
+rabbit   1 2 
+visual   1 
+bundl   1 
+branch   1 5 
+wind   1 2 
+rise   1 
+wave   1 
+airplan   1 
+alright   1 
+should   1 
+check   1 3 5 
+what   1 2 4 5 
+like   1 2 3 4 5 
+morn   1 2 4 
+will   1 3 
+chanc   1 
+big   1 2 5 
+lost   1 2 4 
+or   1 5 
+bigger   1 
+lone   1 3 4 5 
+ear   1 2 
+somehow   1 4 
+penetr   1 
+thing   1 2 4 5 
+sleep   1 
+peac   1 4 
+earli   1 4 
+announc   1 4 5 
+but   1 2 3 4 5 
+constant   1 
+buzzstingslap   1 
+warfar   1 
+far   1 
+friend   1 
+neighbor   1 2 4 
+howl   1 
+scream   1 2 4 
+kid   1 
+squeal   1 
+tire   1 2 3 5 
+polic   1 5 
+siren   1 
+reek   1 
+diesel   1 
+fume   1 
+buss   1 
+jangl   1 
+typewrit   1 
+clatter   1 
+pile   1 2 4 5 
+dissatisfi   1 
+grumbl   1 3 
+boss   1 5 
+loom   1 
+threateningli   1 
+jostl   1 
+lunch   1 
+fight   1 
+traffic   1 
+deposit   1 
+children   1 2 
+toy   1 
+clutter   1 
+driveway   1 5 
+sit   1 2 4 
+tv   1 4 5 
+dinner   1 2 5 
+discuss   1 4 
+crazi   1 
+happen   1 
+dealer   1 
+order   1 4 
+part   1 2 
+ship   1 
+plane   1 
+meanwhil   1 2 
+appli   1 
+applianc   1 
+tool   1 
+repairman   1 
+send   1 
+buy   1 5 
+station   1 
+with   1 3 4 5 
+radio   1 
+cbc   1 
+augment   1 
+program   1 3 4 5 
+obtain   1 4 
+exampl   1 
+veterinarian   1 
+visit   1 4 
+weekli   1 
+monthli   1 
+extent   1 
+injuri   1 
+distant   1 
+meat   1 
+produc   1 
+acut   1 
+howev   1 
+access   1 
+event   1 
+shipment   1 
+perish   1 
+commod   1 
+space   1 
+subsequ   1 
+price   1 
+reflect   1 4 5 
+ad   1 3 4 5 
+cost   1 
+product   1 4 5 
+subject   1 5 
+propan   1 
+seven   1 
+consider   1 
+expens   1 4 
+higher   1 
+ago   1 
+ran   1 2 
+bed   1 
+10000   1 
+breakfast   1 
+2   1 
+toast   1 
+bacon   1 
+1200   1 
+avga   1 
+700   1 
+gallon   1 
+then   1 2 
+250   1 
+circl   1 
+expect   1 4 5 
+whi   1 2 
+matter   1 
+ancestri   1 
+white   1 
+born   1 
+their   1 4 
+parent   1 5 
+have   1 2 3 4 5 
+move   1 2 5 
+employ   1 5 
+reason   1 4 
+transient   1 
+follow   1 3 4 5 
+job   1 4 5 
+corpor   1 4 
+definit   1 
+endur   1 
+involv   1 3 4 
+myself   1 5 
+extend   1 3 
+10   1 
+adapt   1 
+way   1 2 3 4 5 
+abl   1 3 
+independ   1 
+adjust   1 
+when   1 3 4 5 
+adult   1 
+took   1 2 3 
+stock   1 
+stuck   1 
+rut   1 
+townspeopl   1 
+our   1 
+post   1 4 5 
+offic   1 3 4 5 
+decid   1 4 
+now   1 5 
+possibl   1 3 5 
+remain   1 
+rest   1 4 5 
+februari   1 
+1984   1 
+miss   1 
+delici   1 
+clear   1 2 
+steak   1 
+moosemeat   1 
+sausag   1 
+pancak   1 
+freedom   1 
+afford   1 
+seclud   1 
+superb   1 
+friendship   1 
+camaraderi   1 
+happi   1 
+opportun   1 
+approach   1 
+midpoint   1 
+want   1 2 3 4 5 
+off   1 
+supermarket   1 
+mall   1 
+fanci   1 
+restaur   1 
+gourmet   1 
+closer   1 2 
+drive   1 
+old   1 2 4 5 
+broader   1 
+choic   1 
+more   1 
+channel   1 
+east   1 
+music   1 2 
+nation   1 
+214   1 
+sli   2 
+fox   2 
+mr   2 
+sat   2 
+porch   2 4 
+carrot   2 
+come   2 3 5 
+said   2 4 5 
+himself   2 4 
+shade   2 
+paw   2 3 
+exclaim   2 
+cri   2 
+yard   2 
+repli   2 5 
+slight   2 
+frown   2 5 
+well   2 5 
+i   2 3 4 5 
+havent   2 5 
+seen   2 
+long   2 3 4 5 
+chat   2 
+while   2 
+rude   2 
+enemi   2 
+seat   2 5 
+polit   2 4 
+stay   2 
+ask   2 5 
+mother   2 
+tonight   2 
+wont   2 
+rab   2 
+me   2 5 
+oh   2 
+us   2 5 
+he   2 3 4 5 
+pretend   2 
+disappoint   2 
+sorri   2 5 
+engag   2 
+today   2 
+tomorrow   2 5 
+chuckl   2 
+readili   2 
+agre   2 4 
+wish   2 3 5 
+trot   2 
+soon   2 
+call   2 4 5 
+togeth   2 5 
+and   2 3 4 5 
+rubber   2 4 
+boot   2 5 
+quickli   2 
+piney   2 
+brook   2 
+destroy   2 4 5 
+delight   2 
+woodland   2 
+tower   2 5 
+pine   2 
+wa   2 
+needl   2 
+soft   2 
+carpet   2 
+sang   2 
+fragranc   2 
+flower   2 4 
+fill   2 
+huge   2 
+hollow   2 
+burrow   2 
+cozi   2 
+squirrel   2 
+nut   2 
+hidden   2 
+owl   2 
+hoot   2 
+cricket   2 
+chirp   2 
+merrili   2 
+next   2 
+knock   2 
+door   2 
+hedgehog   2 
+answer   2 5 
+inquir   2 
+wick   2 
+grin   2 
+cun   2 
+no   2 4 5 
+eedgehog   2 
+cordial   2 
+right   2 3 4 5 
+yesterday   2 
+ah   2 
+go   2 4 5 
+my   2 3 
+real   2 
+feast   2 
+dont   2 4 5 
+lip   2 3 
+think   2 3 4 5 
+goodi   2 
+do   2 5 
+nice   2 4 
+young   2 5 
+grasshopp   2 
+softli   2 
+noth   2 4 
+tender   2 
+fairli   2 
+dribbl   2 
+mouth   2 5 
+dainti   2 
+field   2 
+them   2 5 
+sack   2 
+bake   2 
+appl   2 
+deilici   2 
+greedi   2 
+resist   2 
+went   2 4 
+grab   2 
+threw   2 4 
+shoulder   2 3 5 
+suspici   2 
+how   2 4 5 
+silli   2 5 
+dumpl   2 
+everi   2 
+hair   2 
+stood   2 
+fright   2 
+foolish   2 
+been   2 
+her   2 
+greed   2 
+straighten   2 
+cook   2 
+eaten   2 
+herself   2 
+rain   2 
+begun   2 
+dri   2 
+down   2 4 
+throw   2 
+drop   2 
+heavili   2 
+wow   2 
+jump   2 
+shot   2 
+quill   2 
+might   2 
+fro   2 
+tri   2 3 4 5 
+pull   2 4 
+gone   2 
+began   2 5 
+honey   2 
+crawl   2 5 
+slowli   2 
+she   2 
+fool   2 
+els   2 5 
+happili   2 
+wade   2 
+sail   2 
+leaf   2 
+silveri   2 
+dart   2 
+late   2 3 
+papa   2 
+mama   2 
+talk   2 
+robe   2 
+bedroom   2 
+slipper   2 
+spectacl   2 
+lovingli   2 
+dress   2 
+housecoat   2 
+red   2 3 
+knit   2 
+sock   2 4 5 
+sniff   2 
+came   2 
+suddenli   2 
+whisper   2 5 
+concern   2 
+alarm   2 3 
+trembl   2 
+straw   2 
+tell   2 4 5 
+veri   2 5 
+instruct   2 
+caution   2 
+mice   2 
+sinc   2 4 5 
+behav   2 
+obedi   2 
+stick   2 
+oak   2 
+breath   2 
+shall   2 
+again   2 3 5 
+scratch   2 
+earth   2 
+dig   2 
+furious   2 
+poor   2 
+frighten   2 5 
+heart   2 5 
+thump   2 
+shake   2 
+bulg   2 
+panic   2 
+toot   2 
+toottoot   2 
+horn   2 5 
+woof   2 
+bark   2 
+gave   2 
+bound   2 
+relief   2 4 
+nearer   2 
+hound   2 
+busili   2 
+first   2 
+listen   2 3 
+him   2 3 4 5 
+loudli   2 
+hors   2 
+beat   2 
+rhythm   2 
+redcoat   2 
+urg   2 
+chase   2 
+hill   2 
+meadow   2 
+spi   2 
+into   2 
+slid   2 
+scent   2 
+opposit   2 4 
+direct   2 
+resolv   2 4 
+bother   2 
+safe   2 
+last   2 3 
+prayer   2 
+thanksgiv   2 
+prais   2 
+father   2 3 
+art   2 5 
+hustl   2 
+make   2 3 4 
+mint   2 
+tea   2 
+hot   2 
+chocol   2 
+whip   2 3 
+cream   2 
+beulah   2 
+murrel   2 
+adventur   3 4 5 
+wolf   3 4 5 
+scientif   3 4 5 
+electron   3 4 5 
+syndic   3 4 5 
+seri   3 4 5 
+exploit   3 4 5 
+madcap   3 4 
+maven   3 4 
+hightechnolog   3 4 
+1991   3 4 5 
+michi   3 4 5 
+peshota   3 4 5 
+may   3 4 5 
+distribut   3 4 5 
+accompani   3 4 5 
+welcomelw   3 4 5 
+episodlw   3 4 5 
+file   3 4 5 
+episod   3 4 5 
+14   3 
+smart   3 5 
+bomb   3 5 
+languag   3 4 
+parser   3 
+smax   3 4 5 
+attempt   3 4 
+thwart   3 
+word   3 5 
+discov   3 
+code   3 
+stubborn   3 
+human   3 
+m   3 4 5 
+whoever   3 
+austin   3 
+watch   3 5 
+wildhair   3 
+officem   3 
+bulllik   3 
+featur   3 4 
+creas   3 
+scowl   3 
+hunch   3 
+stack   3 4 
+thesaurus   3 
+page   3 
+curs   3 
+bitterli   3 
+onli   3 5 
+nudnik   3 5 
+programm   3 4 5 
+verbal   3 
+contextsensit   3 
+growl   3 
+earlier   3 
+builder   3 4 5 
+condescend   3 
+moist   3 
+humil   3 
+napolean   3 
+upper   3 
+quiver   3 
+helplessli   3 
+beg   3 
+hollowey   3 
+wizard   3 
+recod   3 
+andrewbass   3 4 
+guid   3 5 
+missil   3 5 
+softwar   3 4 5 
+specif   3 
+screech   3 
+screen   3 
+flash   3 5 
+bright   3 
+key   3 
+prompt   3 4 
+declar   3 
+gu   3 5 
+farwick   3 5 
+testosteroneless   3 
+simp   3 
+eel   3 
+toe   3 
+brain   3 
+assembl   3 
+savant   3 
+worthwhil   3 
+preoccupi   3 
+moment   3 5 
+neurot   3 
+fret   3 
+fear   3 
+ghost   3 
+alan   3 
+ture   3 
+domicil   3 
+coat   3 
+closet   3 
+gape   3 
+zombielik   3 
+flourescentwhit   3 
+drool   3 
+shirt   3 
+eventu   3 4 
+shuffl   3 5 
+still   3 
+section   3 
+thesauru   3 
+list   3 
+synonym   3 
+ninnyhead   3 
+puddingbrain   3 
+knucklenoggin   3 
+recit   3 
+nasal   3 
+drone   3 
+labori   3 
+groan   3 
+respons   3 5 
+bell   3 
+chime   3 
+familiar   3 
+twit   3 
+entir   3 4 5 
+rang   3 
+invect   3 
+grunt   3 4 5 
+fling   3 
+rais   3 5 
+muse   3 
+mayb   3 4 5 
+altern   3 4 
+spell   3 
+geesfarwoookisa   3 
+tusktossturoonmess   3 
+impwifeeeeltooeys4brain   3 
+respond   3 
+slow   3 
+gag   3 
+maim   3 
+pinbal   3 
+slam   3 
+fist   3 
+desk   3 
+rage   3 5 
+nestl   3 
+worn   3 
+ivori   3 
+keyboard   3 5 
+futil   3 
+linguist   3 
+manipul   3 
+fell   3 
+asleep   3 
+troubl   3 4 
+dream   3 5 
+saw   3 4 
+flyblown   3 
+profil   3 5 
+terrifi   3 
+rave   3 5 
+longforgotten   3 
+memori   3 4 
+regist   3 5 
+irrepress   3 
+materi   3 
+tweed   3 
+shabbi   3 
+wingtip   3 
+cobweb   3 
+copi   3 5 
+byte   3 
+batter   3 
+zebrafur   3 
+cloak   3 
+devilmaycar   3 
+glower   3 
+unlik   3 5 
+smirk   3 5 
+shadowi   3 
+latter   3 
+hold   3 4 
+hanswurst   3 
+knuckl   3 
+impass   3 
+vigor   3 
+symphon   3 
+conductor   3 
+manic   3 
+termin   3 
+unawar   3 
+gambol   3 
+aghast   3 
+finger   3 
+final   3 4 5 
+artist   3 
+spent   3 
+twist   3 
+heap   3 4 
+beethoven   3 
+numer   3 
+keypad   3 
+surpis   3 
+glanc   3 5 
+omigod   3 
+gasp   3 4 
+geniu   3 5 
+won   3 
+disabl   3 
+kooki   3 
+smile   3 
+pride   3 4 
+string   3 
+inscrut   3 
+algorithm   3 
+march   3 
+gawd   3 
+understand   3 5 
+are   3 4 
+cluck   3 
+press   3 5 
+enter   3 
+close   3 
+epitaph   3 
+nod   3 
+approv   3 
+got   3 4 5 
+bike   3 
+disappear   3 
+leap   3 
+hop   3 
+wound   3 
+harlequin   3 
+fini   3 4 5 
+dingreadi   3 
+derringdo   3 
+aerospac   3 
+demonstr   3 
+latest   3 
+crop   3 
+computerguid   3 
+militari   3 
+nabob   3 
+find   3 
+17   4 
+releas   4 
+111891   4 5 
+hightech   4 5 
+startup   4 
+snit   4 
+glowinthedark   4 
+promot   4 
+keychain   4 
+lead   4 5 
+squabbl   4 
+folksi   4 
+founder   4 
+stumbl   4 
+selfemploy   4 
+bare   4 
+fratern   4 5 
+manageri   4 
+disaccord   4 
+clamor   4 
+vice   4 5 
+presid   4 5 
+research   4 5 
+heartsick   4 
+partner   4 5 
+protest   4 
+market   4 
+magnanim   4 
+stretch   4 
+ratti   4 
+couch   4 
+refer   4 5 
+r   4 
+d   4 
+flip   4 
+magazin   4 5 
+crumpl   4 
+schemat   4 5 
+rewir   4 
+buffalo   4 
+moan   4 
+andrewba   4 5 
+pace   4 
+floor   4 
+tens   4 
+cherub   4 
+woefulli   4 
+downcast   4 
+im   4 5 
+titl   4 5 
+trusti   4 
+comput   4 5 
+point   4 5 
+rememb   4 
+stamp   4 
+attic   4 
+yourselfan   4 
+fit   4 
+chief   4 
+execut   4 
+chairman   4 
+director   4 
+scienc   4 
+hardwar   4 5 
+intellig   4 
+governorelect   4 
+curat   4 
+antiqu   4 
+fiduciari   4 
+mattersalthough   4 
+cant   4 
+figur   4 
+charg   4 
+fiduc   4 
+chip   4 5 
+credenti   4 
+roll   4 
+elbow   4 
+snif   4 
+complain   4 
+mighti   4 
+impress   4 
+print   4 
+sure   4 5 
+stationari   4 
+who   4 5 
+grate   4 
+indiffer   4 
+scrutin   4 
+articl   4 
+flow   4 
+account   4 5 
+further   4 5 
+bossi   4 
+relent   4 
+indemand   4 
+monday   4 
+sale   4 
+consid   4 5 
+dishonor   4 
+vocat   4 
+pict   4 
+overpr   4 
+funer   4 
+plot   4 
+latenight   4 
+friday   4 
+afternoon   4 5 
+monthat   4 
+longer   4 
+necessari   4 5 
+hurt   4 
+terribl   4 
+proceed   4 
+touchi   4 
+topic   4 
+that   4 5 
+400000   4 
+emboss   4 
+mottoalthough   4 
+idea   4 5 
+yetand   4 
+prize   4 
+trade   4 
+show   4 5 
+demolit   4 
+derbi   4 
+anyplac   4 
+arrest   4 
+loiter   4 
+question   4 
+expenditur   4 
+wise   4 
+money   4 5 
+callwait   4 
+instal   4 5 
+phone   4 5 
+bristl   4 5 
+realist   4 
+huf   4 
+suggest   4 5 
+caus   4 5 
+increasingli   4 
+anxietyfil   4 
+squirm   4 
+disbelief   4 5 
+help   4 5 
+capit   4 5 
+coupl   4 
+turbo   4 
+pascal   4 
+ballpoint   4 
+pen   4 
+hell   4 
+anyon   4 
+multibillion   4 
+dollar   4 5 
+contract   4 
+c   4 
+whatnot   4 
+recogn   4 
+legal   4 5 
+47   4 
+state   4 5 
+shock   4 
+teach   4 
+school   4 
+evolv   4 
+bicker   4 5 
+camera   4 
+film   4 
+highli   4 
+photogen   4 
+tieclip   4 
+doubl   4 
+sigh   4 5 
+so   4 
+glad   4 
+restor   4 
+faith   4 
+viabil   4 
+partnership   4 
+pimpli   4 
+squirt   4 5 
+remind   4 
+viewer   4 
+grievou   4 
+mental   4 
+defici   4 
+churn   4 
+horrif   4 
+precalculu   4 
+class   4 
+pipsqueek   4 
+thrive   4 
+excel   4 
+reduc   4 
+helpless   4 
+pulpi   4 
+mount   4 
+confus   4 
+economist   4 
+sportscast   4 
+instead   4 5 
+mathemat   4 
+genius   4 
+better   4 
+identifi   4 
+guy   4 5 
+classi   4 
+articul   4 
+crook   4 
+nose   4 5 
+screwdriv   4 
+pocket   4 5 
+cock   4 
+orangeandblack   4 
+bushi   4 
+wouldnt   4 5 
+scof   4 
+effect   4 
+plastic   4 5 
+glass   4 
+truce   4 
+spend   4 
+rearrang   4 
+furnitur   4 
+livingroom   4 5 
+wasnt   4 5 
+arrang   4 
+cabinet   4 
+wall   4 5 
+calendar   4 
+wartorn   4 
+tuba   4 
+previous   4 
+reloc   4 
+bathroom   4 
+serv   4 
+extralarg   4 
+hamper   4 
+minut   4 
+interior   4 
+decor   4 
+erupt   4 
+shout   4 
+stomp   4 
+crossfir   4 
+epithet   4 
+aspers   4 
+charact   4 5 
+tyranni   4 
+drag   4 
+room   4 5 
+wad   4 
+gesticul   4 
+despair   4 
+debri   4 
+swept   4 
+neat   4 
+broom   4 
+junk   4 5 
+s   4 5 
+max   4 5 
+dash   4 
+save   4 
+etern   4 
+western   4 
+recov   4 
+technolog   4 5 
+progress   4 
+million   4 
+alreadi   4 5 
+countless   4 
+simpli   4 5 
+push   4 
+tip   4 
+dent   4 
+rustsplotch   4 
+receptacl   4 
+suggestingthat   4 
+jam   4 
+squeeki   4 
+wobbl   4 
+drawer   4 
+heathen   4 
+gotten   4 5 
+poster   4 
+suppos   4 
+anyth   4 
+desecr   4 
+match   4 
+alley   4 
+corner   4 
+shove   4 5 
+window   4 5 
+argu   4 
+sun   4 
+fade   4 
+alreadyfad   4 
+chinz   4 
+reminisc   4 5 
+highdecibel   4 
+parri   4 
+irat   4 
+industri   5 
+bona   5 
+fide   5 
+eccentr   5 
+16   5 
+two   5 
+garag   5 
+bash   5 
+highstrung   5 
+paycheck   5 
+clearanc   5 
+viabl   5 
+desper   5 
+men   5 
+dothey   5 
+defens   5 
+worker   5 
+loss   5 
+digniti   5 
+blast   5 
+reput   5 
+happier   5 
+fake   5 
+zebra   5 
+drape   5 
+arm   5 
+fiasco   5 
+lengthi   5 
+miniseri   5 
+glee   5 
+congression   5 
+investig   5 
+box   5 
+stuf   5 
+dice   5 
+honk   5 
+complet   5 
+bumperstick   5 
+plaster   5 
+bust   5 
+john   5 
+f   5 
+kennedi   5 
+effluvium   5 
+didnt   5 
+stricken   5 
+grief   5 
+speak   5 
+did   5 
+surpris   5 
+mischiev   5 
+sad   5 
+congressman   5 
+fer   5 
+sourc   5 
+spate   5 
+terror   5 
+surinam   5 
+guyana   5 
+innoc   5 
+paper   5 
+receiv   5 
+fan   5 
+veril   5 
+transmit   5 
+wire   5 
+pictur   5 
+femal   5 
+correspond   5 
+sent   5 
+prison   5 
+recal   5 
+raggedi   5 
+whiz   5 
+practic   5 
+congress   5 
+hostag   5 
+rant   5 
+microphon   5 
+outdat   5 
+architectur   5 
+known   5 
+share   5 
+officeand   5 
+evenwith   5 
+goofbal   5 
+had   5 
+probabl   5 
+foresaken   5 
+childhood   5 
+impecc   5 
+logic   5 
+histori   5 
+gloom   5 
+felt   5 
+realiz   5 
+feel   5 
+deserv   5 
+couldnt   5 
+hard   5 
+evil   5 
+demon   5 
+inform   5 
+son   5 
+write   5 
+goos   5 
+farwook   5 
+sing   5 
+kahuna   5 
+demand   5 
+truth   5 
+mastermind   5 
+blasphemi   5 
+slip   5 
+engineermanag   5 
+sociallychalleng   5 
+offspr   5 
+unfortun   5 
+hadnt   5 
+believ   5 
+second   5 
+embarrass   5 
+half   5 
+pentagon   5 
+shopahol   5 
+flaunt   5 
+append   5 
+manag   5 
+stupid   5 
+surprisingli   5 
+initi   5 
+deni   5 
+maxwel   5 
+address   5 
+orang   5 
+afro   5 
+admitbetween   5 
+sobsthat   5 
+sherwood   5 
+franklin   5 
+selfproclaim   5 
+child   5 
+sympath   5 
+profus   5 
+invit   5 
+contractor   5 
+piec   5 
+calamit   5 
+bumper   5 
+sticker   5 
+dilapid   5 
+pat   5 
+compassion   5 
+regret   5 
+assur   5 
+donethat   5 
+blind   5 
+ignor   5 
+whimsic   5 
+employe   5 
+forev   5 
+horribl   5 
+steer   5 
+satellit   5 
+dishtop   5 
+steep   5 
+ramp   5 
+daredevilish   5 
+swerv   5 
+labrador   5 
+retriev   5 
+kennel   5 
+mess   5 
+loonbal   5 
+sometim   5 
+author   5 
+fate   5 
+sadist   5 
+sitcom   5 
+gig   5 
+gong   5 
+lectur   5 
+tour   5 
+about   5 
+stuff   5 
+fashion   5 
+irk   5 
+floppi   5 
+disk   5 
+afterward   5 
+quot   5 
+thu   5 
+spake   5 
+zarathustra   5 
+were   5 
+suspect   5 
+id   5 
+itch   5 
+solo   5 
+career   5 
+crack   5 
+rattl   5 
+hire   5 
+consult   5 
+advic   5 
+give   5 
+could   5 
+paus   5 
+uncertain   5 
+video   5 
+game   5 
+correctli   5 
+theyr   5 
+certain   5 
+bad   5 
+fireplug   5 
+broad   5 
+illeg   5 
+uturn   5 
+grassi   5 
+island   5 
+both   5 
+silenc   5 
+stun   5 
+enorm   5 
+tray   5 
+process   5 
+card   5 
+afteral   5 
+notion   5 
+caprici   5 
+sell   5 
+ingeni   5 
+devic   5 
+too   5 
+afram   5 
+letter   5 
+ring   5 
+crispli   5 
+inhabit   5 
+sleek   5 
+likedl   5 
+trek   5 
+hi   5 
+widen   5 
+reel   5 
+bubbl   5 
+snort   5 
+pompous   5 
+ive   5 
+oodl   5 
+muddi   5 
+clearli   5 
+outcom   5 
+brighten   5 
+grew   5 
+enthusiast   5 
+hacker   5 
+wed   5 
+booster   5 
+protector   5 
+pencil   5 
+chest   5 
+afraid   5 
+model   5 
+sputnik   5 
+rocket   5 
+prop   5 
+apollo   5 
+11   5 
+correct   5 
+whatev   5 
+complimentari   5 
+printout   5 
+tangl   5 
+base   5 
+divulg   5 
+smuggl   5 
+classifi   5 
+shrug   5 
+hardli   5 
+import   5 
+union   5 
+newli   5 
+unemploy   5 
+illdefin   5 
+later   5 
+momentandrewba   5 
+blame   5 
+scuffl   5 
+aros   5 
+silicon   5 
+gossam   5 
+fantasi   5 
+grow   5 
+rich   5 
+solder   5 
+iron   5 
+hock   5 
+wannab   5 
+roar   5 
+freeway   5 
+spoke   5 
+brave   5 
+visionari   5 
+term   5 
+attest   5 
+thrill   5 
+invent   5 
+drew   5 
+parallel   5 
+patent   5 
+name   5 
+bin   5 
+famou   5 
+monogram   5 
+recount   5 
+inspir   5 
+bill   5 
+gate   5 
+frecklenos   5 
+colleg   5 
+dorm   5 
+financ   5 
+colon   5 
+someday   5 
+wage   5 
+hostil   5 
+takeov   5 
+bloat   5 
+manufactur   5 
+american   5 
+express   5 
+curios   5 
+secret   5 
+inner   5 
+self   5 
+zigzag   5 
+lane   5 
+kamikaz   5 
+abrupt   5 
+squeel   5 
+dish   5 
+creak   5 
+shiver   5 
+confid   5 
+mere   5 
+yourself   5 
+empath   5 
+primit   5 
+desir   5 
+guilti   5 
+chicken   5 
+coop   5 
+mythic   5 
+archetyp   5 
+design   5 
+intellect   5 
+such   5 
+pleas   5 
+tarnish   5 
+sanctiti   5 
+grave   5 
+without   5 
+bit   5 
+technic   5 
+fiber   5 
+savag   5 
+instinct   5 
+lean   5 
+ibm   5 
+imposs   5 
+seem   5 
+guess   5 
+often   5 
+lay   5 
+refurbish   5 
+supercool   5 
+circuit   5 
+gallium   5 
+arsenid   5 
+port   5 
+300key   5 
+builtin   5 
+softserv   5 
+icecream   5 
+maker   5 
+bliss   5 
+unnatur   5 
+obsess   5 
+coordin   5 
+belt   5 
+wallet   5 
+request   5 
+fallen   5 
+signal   5 
+convers   5 
+unpack   5 
+fuzzi   5 
+flotsam   5 
+confront   5 
+fact   5 
+knew   5 
+exactli   5 
+meant   5 
+incorpor   5 
+insist   5 
+sort   5 
+limbo   5 
+nevada   5 
+age   5 
+movement   5 
+hang   5 
+baffl   5 
+propos   5 
+form   5 
+ir   5 
+investor   5 
+shrinkwrap   5 
+spun   5 
+harsh   5 
+dirti   5 
+inhibit   5 
+abil   5 
+innov   5 
